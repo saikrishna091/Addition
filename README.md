@@ -1,10 +1,7 @@
-number1 = float(input("Number 1; "))
+num1 = "108"
 
-number2 = float(input("Number 2;"))
+num2 = "112"
 
-number3 = float(input("Number 3;"))
+Sum = num1 + num2
 
-Sum = number1 + number2 + number3
-
-print ("Sum:", Sum)
-s
+print("sum")
